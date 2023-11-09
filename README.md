@@ -8,6 +8,12 @@ The pandemic of the new coronavirus has had a major impact on the tourism indust
 # possibility
 We believe that this study will clarify what can be learned from customer reviews of hotels. Furthermore, this study will allow us to further develop our understanding of how coronaviruses affect hotel guests. It may reveal what customers expect from the hotels where they stay after living with coronaviruses for a long time.
 
+
+# Work process
+https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/89871f33-0533-4229-9258-0fcb542af33f
+
+
+
 # Data Citation
 ![JLN_Logo](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/5114b64e-6fa9-492b-9d53-41d8f880782f)[link](https://www.jalan.net/)
 
