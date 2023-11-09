@@ -1,0 +1,14 @@
+対象サイト(2023/10/04時点)
+
+
+1.ＨＯＴＥＬ　ＲＡ・ＫＵＵＮ（ホテル ラクーン）
+open link(1~4) : "https://www.jalan.net/yad320935/kuchikomi/?screenId=UWW3001&yadNo=320935&stayMonth=&dateUndecided=1&stayYear=&stayDay=&minPrice=0&maxPrice=999999&rootCd=7701&callbackHistFlg=1&smlCd=141602&distCd=01&ccnt=lean-kuchikomi-tab"
+archive link(1~28) : "https://www.jalan.net/yad320935/kuchikomi/archive/?maxPrice=999999&rootCd=7701&screenId=UWW3701&smlCd=141602&dateUndecided=1&minPrice=0&yadNo=320935&callbackHistFlg=1&distCd=01"
+
+2リブマックスリゾート箱根芦ノ湖
+open link(1~3) : "https://www.jalan.net/yad330095/kuchikomi/?screenId=UWW3801&maxPrice=999999&rootCd=7701&roomCrack=200000&dateUndecided=1&adultNum=2&minPrice=0&yadNo=330095&callbackHistFlg=1&smlCd=141602&distCd=01&ccnt=lean-kuchikomi-tab"
+archive link(1~) : "https://www.jalan.net/yad330095/kuchikomi/archive/?roomCrack=200000&maxPrice=999999&rootCd=7701&screenId=UWW3701&smlCd=141602&dateUndecided=1&adultNum=2&minPrice=0&yadNo=330095&callbackHistFlg=1&distCd=01"
+
+3.箱根ホテル 富士屋ホテルレイクビューアネックス
+open link(1~6) : https://www.jalan.net/yad320106/kuchikomi/?screenId=UWW3001&yadNo=320106&minPrice=0&maxPrice=999999&rootCd=7701&stayMonth=&dateUndecided=1&stayYear=&stayDay=&callbackHistFlg=1&smlCd=141602&distCd=01&ccnt=lean-kuchikomi-tab"
+archive link(1~305) : "https://www.jalan.net/yad320106/kuchikomi/archive/?maxPrice=999999&rootCd=7701&screenId=UWW3701&smlCd=141602&dateUndecided=1&minPrice=0&yadNo=320106&callbackHistFlg=1&distCd=01"

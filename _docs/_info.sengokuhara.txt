@@ -1,0 +1,14 @@
+対象サイト(2023/10/04時点)
+
+
+1.箱根仙石原プリンスホテル
+open link(1~4) : "https://www.jalan.net/yad358725/kuchikomi/?screenId=UWW3001&yadNo=358725&stayMonth=&dateUndecided=1&stayYear=&stayDay=&minPrice=0&maxPrice=999999&rootCd=7701&callbackHistFlg=1&smlCd=141602&distCd=01&ccnt=lean-kuchikomi-tab"
+archive link(1~28) : "https://www.jalan.net/yad358725/kuchikomi/archive/?maxPrice=999999&rootCd=7701&screenId=UWW3701&smlCd=141602&dateUndecided=1&minPrice=0&yadNo=358725&callbackHistFlg=1&distCd=01"
+
+2.露天付客室充実の宿　仙石原　品の木一の湯
+open link(1~3) : "https://www.jalan.net/yad312415/kuchikomi/?screenId=UWW3001&yadNo=312415&stayMonth=&dateUndecided=1&stayYear=&stayDay=&minPrice=0&maxPrice=999999&rootCd=7701&callbackHistFlg=1&smlCd=141602&distCd=01&ccnt=lean-kuchikomi-tab"
+archive link(1~) : "https://www.jalan.net/yad312415/kuchikomi/archive/?maxPrice=999999&rootCd=7701&screenId=UWW3701&smlCd=141602&dateUndecided=1&minPrice=0&yadNo=312415&callbackHistFlg=1&distCd=01"
+
+3.懐石小鉢バイキングと濁り湯で癒しを　リ・カーヴ箱根
+open link(1~6) : "https://www.jalan.net/yad348397/kuchikomi/?screenId=UWW3001&stayCount=1&roomCount=1&dateUndecided=1&adultNum=2&roomCrack=200000&yadNo=348397&callbackHistFlg=1&smlCd=141602&distCd=02&ccnt=lean-kuchikomi-tab"
+archive link(1~305) : "https://www.jalan.net/yad348397/kuchikomi/archive/?roomCrack=200000&screenId=UWW3701&smlCd=141602&dateUndecided=1&adultNum=2&yadNo=348397&callbackHistFlg=1&distCd=02"
