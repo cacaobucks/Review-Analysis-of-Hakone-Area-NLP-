@@ -1,15 +1,16 @@
-![download]([https://github.com/cacaobucks/sakatu/assets/110584408/428afab6-a28d-49e8-8534-4d5cd2e8259d](https://boutiquejapan.com/wp-content/uploads/2014/09/Torii-Hakone-Jinja-Shrine.png))
+![image](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/4a1c392e-c312-4d43-9ef5-d2be3570b65c)
 
-# sakatu
- 
-I frequently use the sauna to relieve my normal fatigue. I consider [サウナイキタイ([https://sauna-ikitai.com/])]  to be an indispensable tool for sauna lovers. We will analyze the behavior of sauna lovers by collecting data by scraping against the word-of-mouth data of sauna users from the website of such saunas.
+# Review-Analysis-of-Hakone-Area-NLP-
+
+
+The pandemic of the new coronavirus has had a major impact on the tourism industry worldwide. In particular, the reputation of the region as a tourist destination and the expectations of travelers are thought to have changed significantly before and after the corona. In this study, we will delve deeper into the impact of the coronavirus pandemic on Hakone, a popular tourist destination, through word-of-mouth data on lodging facilities. Specifically, we will conduct a topic analysis of word-of-mouth data on accommodations in Hakone during the three periods of "pre-corona, corona vortex, and post-corona," and clarify the changes. By comparing the trends of word-of-mouth and changes in topics in each period, we will gain a concrete understanding of how the pandemic has changed the expectations of lodging guests as a tourist destination in Hakone.
  
 # possibility
-Although the current floor only collects reviews of sauna facilities in specific locations, analysis of data on a larger scale, such as by area or throughout Japan, may eventually clarify sauna users' behavior and rules of thumb.
+We believe that this study will clarify what can be learned from customer reviews of hotels. Furthermore, this study will allow us to further develop our understanding of how coronaviruses affect hotel guests. It may reveal what customers expect from the hotels where they stay after living with coronaviruses for a long time.
 
 # Data Citation
 
-https://sauna-ikitai.com/
+[https://sauna-ikitai.com/](https://www.jalan.net/)
 
 # Author
  
