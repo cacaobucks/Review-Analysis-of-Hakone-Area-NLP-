@@ -11,7 +11,9 @@ We believe that this study will clarify what can be learned from customer review
 
 
 # Work process
-https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/89871f33-0533-4229-9258-0fcb542af33f
+https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/d96d8e51-0ae7-43be-b36b-cda443851589
+
+
 
 
 
