@@ -1,4 +1,5 @@
-![image](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/4a1c392e-c312-4d43-9ef5-d2be3570b65c)
+![image](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/342d3a48-a0e9-41d2-bc20-6b0d08029405)
+
 
 # Review-Analysis-of-Hakone-Area-NLP-
 
