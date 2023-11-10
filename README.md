@@ -17,8 +17,10 @@ https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/1105844
 
 
 
+
 # Data Citation
-![JLN_Logo](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/5114b64e-6fa9-492b-9d53-41d8f880782f)[link](https://www.jalan.net/)
+![download](https://github.com/cacaobucks/Review-Analysis-of-Hakone-Area-NLP-/assets/110584408/79b4c813-186b-424a-8d0e-0555776598a4)
+[link](https://www.jalan.net/)
 
 # Author
  
